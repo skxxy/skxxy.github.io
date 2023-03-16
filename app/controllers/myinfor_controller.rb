@@ -1,0 +1,2 @@
+class MyinforController < ApplicationController
+end
